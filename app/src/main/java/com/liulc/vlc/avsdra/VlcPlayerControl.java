@@ -9,7 +9,7 @@ import org.videolan.libvlc.MediaPlayer;
 
 import java.util.ArrayList;
 
-import static com.liulc.vlc.LogUtils.logld;
+import static com.liulc.vlc.avsdra.LogUtils.logld;
 
 /**
  * @author Liulc
